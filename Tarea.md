@@ -17,8 +17,9 @@ vehiculo --- N° Chasis.
 
 
 
-(Uno a muchos)
 
+
+(Uno a muchos)
 En este otro caso. Un registro de una tabla se puede asociar a uno o varios registros de otra. La relacion en su para a ser una tabla intermedia entre estas dos, Contando como minimo tres datos: una clave primaria (PK) y dos claves Foraneas (FK)
 
 
@@ -35,7 +36,6 @@ Nº celular ------ Codigo de area
 
 
 (muchos a muchos)
-
 Cuando llamamos a una relacion " Muchos a muchos " nos referiamos a que varios registros de una tabla se asocian a varios registros de otra.
 
 
