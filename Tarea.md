@@ -25,8 +25,11 @@ En este otro caso. Un registro de una tabla se puede asociar a uno o varios regi
 EJEMPLOS:
 
 Cliente ---- pedidos
+
 domicilio ------ codigo postal
+
 Nº celular ------ Codigo de area
+
 
 
 
@@ -39,7 +42,9 @@ Cuando llamamos a una relacion " Muchos a muchos " nos referiamos a que varios r
 EJEMPLOS:
 
 Estudiantes ---------- carreras
+
 Clientes ------- productos
+
 club de futbol --- Hinchas 
 
 
