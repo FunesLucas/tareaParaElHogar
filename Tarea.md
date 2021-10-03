@@ -1,4 +1,4 @@
-##1º : Definicion de las relaciones y 5 ejemplos de c/u (uno a uno / uno a muchos / muchos a muchos)
+1º : Definicion de las relaciones y 5 ejemplos de c/u (uno a uno / uno a muchos / muchos a muchos)
 
 (Uno a uno)
 Este mismo permite que un solo registro de una tabla se relacione con un unico registro de otra.
@@ -14,7 +14,6 @@ Persona fisica ----- DNI-
 auto ------- patente.
 
 vehiculo --- N° Chasis.
-
 
 
 
