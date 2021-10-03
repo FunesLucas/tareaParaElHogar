@@ -48,7 +48,7 @@ Clientes ------- productos
 
 club de futbol --- Hinchas 
 
-
+------------------------------------------------------------------------------------------------------
 
 2º : Investigar que es un SGBD (cuales son los mas famosos)
 
@@ -56,7 +56,7 @@ SGBD (sistema de gestion de bases de datos) : es un conjunto de programas que pe
 
 siendo algunos ejemplos de estos mismos: Oracle, DB2, MySQL, MS SQL Server..
 
-
+-------------------------------------------------------------------------------------------------------
 3º : En que se diferencian las relaciones y las no relacionales
 
 Las bases de datos relacionales se basan en la organización de la información en partes pequeñas que se integran mediante identificadores; a diferencia de las bases de datos no relacionales que, como su nombre lo indica, no tienen un identificador que sirva para relacionar dos o más conjuntos de datos.
