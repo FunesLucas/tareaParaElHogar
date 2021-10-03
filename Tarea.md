@@ -6,9 +6,13 @@ Este mismo permite que un solo registro de una tabla se relacione con un unico r
 EJEMPLOS:
 
 Estudiantes ----  Informacion de contacto.
+
 Persona Fisica ----- Licencia de conducir.
+
 Persona fisica ----- DNI-
+
 auto ------- patente.
+
 vehiculo --- N° Chasis.
 
 
