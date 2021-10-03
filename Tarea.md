@@ -18,6 +18,8 @@ vehiculo --- N° Chasis.
 
 
 
+
+
 (Uno a muchos)
 En este otro caso. Un registro de una tabla se puede asociar a uno o varios registros de otra. La relacion en su para a ser una tabla intermedia entre estas dos, Contando como minimo tres datos: una clave primaria (PK) y dos claves Foraneas (FK)
 
